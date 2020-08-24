@@ -33,7 +33,7 @@
             width: 1.8%;
             height: 25%;
             top: 25%;
-            left: 48.85%;
+            left: 48.855%;
             opacity: 0.8;
         }
 
